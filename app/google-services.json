@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483901444542",
+    "project_id": "fb-email-test-7b216",
+    "storage_bucket": "fb-email-test-7b216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483901444542:android:70efff283443d65ee229ef",
+        "android_client_info": {
+          "package_name": "com.example.fb_email_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483901444542-jf3v2kd1m73mt2p4c6cosb6m2if4vld7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-CvCGRMVLgEWDdZejKfGlmIAAOobzNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483901444542-jf3v2kd1m73mt2p4c6cosb6m2if4vld7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
